@@ -1,0 +1,167 @@
+@media(width >= 1440px){
+
+.menu,.square{
+    display: none;
+}
+.satauri{
+    justify-content: start;
+    align-items: center;
+}
+.nav1{
+    display: contents;
+    padding-left: 1160px;
+}.lol1{
+    margin-left: 50%;
+}
+.lol2{
+    margin-left: 25px;
+}
+.lol3{
+    margin-left: 25px;
+}
+.btn{
+    margin-left: 36px;
+}
+.lol:hover{
+    color: black;
+    text-decoration: underline;
+}
+.lol{
+    margin-top: 10px;
+    cursor: pointer;
+    color: #837D88;
+    text-align: center;
+    font-family: 'Karla';
+    font-size: 13px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    letter-spacing: 1.5px;
+}
+.lol:hover{
+    color: black;
+    text-decoration: underline;
+}
+
+.black{
+    flex-direction: row;
+    height: 600px;
+}
+.box1{
+    order: -1;
+    text-align: start;
+        width: 540px;
+height: 84px;
+flex-shrink: 0;
+}
+.humanizing,.getyour{
+    text-align: start;
+}.humanizing{
+    font-size: 72px;
+    height: 150px;
+    width: 526px;
+    row-gap: 6px;
+}
+
+.fam{
+    width: 540px;
+height: 650px;
+    margin-top: 340px;
+    margin-left: 20px;
+}
+.line1{
+    width: 150px;
+height: 2px;
+flex-shrink: 0;
+    display: contents;
+    background-color: white;
+    z-index: 1;
+
+}
+.box1{
+    margin: 0;
+    margin-top: -300px;
+}
+.btn1{
+    margin-left: 72px;
+}
+.kaxa{
+    margin-top: 300px;
+    width: 1110px;
+height: 474px;
+flex-shrink: 0;
+align-items: start;
+}
+.raviaba{
+    display: flex;
+    flex-direction: row;
+    column-gap: 30px;
+}
+.yuti1{
+    margin-top:56px;
+}
+.icon{
+    margin-left: 0;
+}
+h5,h4{
+    text-align: left;
+}
+.black2{
+    width: 1110px;
+height: 250px;
+flex-direction: row;
+gap: 314px;
+}
+.find{
+    margin-left: 81px;
+width: 341px;
+height: 112px;
+text-align: start;
+margin-top: 81px;
+}
+.btn3{
+    margin-top:115px;
+}footer{
+    height: 393px;
+}
+.line3{
+    width: 1110px;
+height: 1px;
+flex-shrink: 0;
+    position: absolute;
+margin-left: 50%;
+transform: translateX(-50%);
+}.rame{
+    width: 100%;
+    padding: 0 165px;
+    justify-content: center;
+    display: flex;
+    flex-direction: row;
+    gap: 354px;
+}
+.scr{
+    margin: 0;
+    margin-top: 20px;
+}
+
+section{
+    width: 100%;
+     height: 200px;
+     display: flex;
+     flex-direction: row;
+     gap: 30px;
+    align-items: center;
+    margin-left: 50%;
+    transform: translateX(-50%);
+    margin-top: 145px;
+    justify-content: center;
+    }
+.part1,.part2,.part3,.part4{
+    width: 255px;
+    height: 159px;
+    flex-shrink: 0;
+    margin: 0;
+margin-top: -88px;
+    justify-content: center;
+}
+}
